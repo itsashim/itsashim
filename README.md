@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi!! I am Aspiring Web Developer and tech enthusiast. let us collabrate and grow together.💐
+Enjoy coding!!😁💐
 
-<!--
-**itsashim/itsashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//My Profiles
+Facebook : https://www.facebook.com/ashim.rai.33046
+instagram : https://www.instagram.com/thesaarvik/
+hasnode : https://hashnode.com/@ashimbantawa
+linkdin : https://www.linkedin.com/in/ashim-rai-2a9688242/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+//Currenty Working as a intern at Martin TECH
+Facebook page: https://www.facebook.com/matinsoftech
+website : https://www.matinsoftech.com/?fbclid=IwAR3FnR_HJ4e29_X0GByXyKG2Gv-RrR_5ehIRhWlAk7ftPeOw1gGRPlCuDYs
