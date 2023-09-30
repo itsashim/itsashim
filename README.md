@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashim Rai</h1>
 <h3 align="center">Frontend developer.</h3>
 
-- 📫 How to reach me **ashimrai903@gmail.com**
+📫 How to reach me ashimrai903@gmail.com<br />
+🌱I’m currently learning React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -111,11 +112,7 @@
   />
 </p>
 
-
-
-
  
- 
- Frontend Developer at Matin softech
- Facebook page: https://www.facebook.com/matinsoftech
- Website : https://www.matinsoftech.com/?fbclid=IwAR3FnR_HJ4e29_X0GByXyKG2Gv-RrR_5ehIRhWlAk7ftPeOw1gGRPlCuDYs
+ Frontend Developer at Matin softech <br/>
+ Facebook page: https://www.facebook.com/matinsoftech <br/>
+ Website : https://www.matinsoftech.com/?fbclid=IwAR3FnR_HJ4e29_X0GByXyKG2Gv-RrR_5ehIRhWlAk7ftPeOw1gGRPlCuDYs <br/>
