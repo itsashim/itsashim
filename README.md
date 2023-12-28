@@ -2,7 +2,9 @@
 <h3 align="center">Frontend developer.</h3>
 
 📫 How to reach me ashimrai903@gmail.com<br />
-🌱I’m currently learning React
+🌱I’m currently learning React<br />
+🚀Studying Information Technology for my Bachelor's!  First semester underway!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
