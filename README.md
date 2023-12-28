@@ -3,7 +3,7 @@
 
 📫 How to reach me ashimrai903@gmail.com<br />
 🌱I’m currently learning React<br />
-🚀Studying Information Technology for my Bachelor's!  First semester underway!
+🚀Pursuing a Bachelor's in Information Technology 
 
 
 <h3 align="left">Connect with me:</h3>
