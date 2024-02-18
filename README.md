@@ -3,7 +3,7 @@
 
 📫 How to reach me ashimrai903@gmail.com<br />
 🌐 https://fantastic-biscochitos-006372.netlify.app/ // My Website <br>
-🌱I’m currently learning React<br />
+🌱I’m currently learning Node js<br />
 🚀Pursuing a Bachelor's in Information Technology 
 
 
