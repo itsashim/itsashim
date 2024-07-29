@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer.</h3>
 
 📫 How to reach me ashimrai903@gmail.com<br />
-🌱I’m currently learning Node js<br />
+🌱I’m currently learning Laravel<br />
 🚀Pursuing a Bachelor's in Information Technology 
 
 
