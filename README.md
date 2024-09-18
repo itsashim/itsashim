@@ -60,7 +60,7 @@
       height="40"
     />
   </a>
-  <a
+<!--   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -71,7 +71,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
     <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
