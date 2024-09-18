@@ -124,10 +124,3 @@
     alt="itsashim"
   />
 </p>
-
-
-
- 
- Frontend Developer at Matin softech <br/>
- Facebook page: https://www.facebook.com/matinsoftech <br/>
- Website : https://www.matinsoftech.com/?fbclid=IwAR3FnR_HJ4e29_X0GByXyKG2Gv-RrR_5ehIRhWlAk7ftPeOw1gGRPlCuDYs <br/>
