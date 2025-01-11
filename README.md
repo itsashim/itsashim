@@ -16,22 +16,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="//www.facebook.com/ashim.rai.33046/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/ashim.rai.33046/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/ashimrai903" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ashimrai903"
-      height="30"
-      width="40"
-  /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
