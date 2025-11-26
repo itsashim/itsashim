@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashim Rai</h1>
-<p align="left">Full Stack Developer specializing in Front-End Web Development </p>
+<p align="left">Front-End Web Developer </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
