@@ -1,4 +1,4 @@
-<h3 align="center">Frontend-First Full-Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer (Frontend Heavy)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
